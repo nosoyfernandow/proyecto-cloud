@@ -1,0 +1,22 @@
+{
+  "name": "proyecto-cloud",
+  "version": "1.0.0",
+  "description": "Fernando Delivery",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Fernando",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "express.js": "^1.0.0",
+    "joi": "^17.13.1",
+    "mongodb": "^6.6.2",
+    "mongoose": "^8.4.0",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.0"
+  }
+}
